@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/picculus/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/picculus/static/js/main.4687808a.chunk.js",
+    "main.js.map": "/picculus/static/js/main.4687808a.chunk.js.map",
+    "runtime-main.js": "/picculus/static/js/runtime-main.acb97b4d.js",
+    "runtime-main.js.map": "/picculus/static/js/runtime-main.acb97b4d.js.map",
+    "static/js/2.a2cbe080.chunk.js": "/picculus/static/js/2.a2cbe080.chunk.js",
+    "static/js/2.a2cbe080.chunk.js.map": "/picculus/static/js/2.a2cbe080.chunk.js.map",
+    "static/js/3.b06b721e.chunk.js": "/picculus/static/js/3.b06b721e.chunk.js",
+    "static/js/3.b06b721e.chunk.js.map": "/picculus/static/js/3.b06b721e.chunk.js.map",
+    "index.html": "/picculus/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/picculus/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a2cbe080.chunk.js.LICENSE.txt": "/picculus/static/js/2.a2cbe080.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/picculus/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acb97b4d.js",
+    "static/js/2.a2cbe080.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4687808a.chunk.js"
+  ]
+}
